@@ -4,4 +4,4 @@
 * guanciale
 * tuorli
 * pecorino
-* pepe nero in grani
+* basilico
